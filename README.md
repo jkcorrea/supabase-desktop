@@ -1,7 +1,9 @@
 # Supabase Desktop
-![Supabase Desktop](./public/demo.gif)
 
 This is an unofficial desktop UI for Supabase projects. It was created for Supabase's [Launch Week 6 hackathon](https://supabase.com/blog/launch-week-6-hackathon), though I ended up getting sick during it and finished late :/.
+
+<p align="center"><img src="./public/demo.gif" width="600" /></p>
+
 
 ## Why build it?
 
